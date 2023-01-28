@@ -1,0 +1,16 @@
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.Properties.Resources.resources
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.csproj.GenerateResource.Cache
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.exe
+E:\CAN Demo(2014-5-28)0000000000000000000000000000000000000000000\API Samples\GENERIC_V1.06\c#例子(vs2005)\WindowsApplication1\WindowsApplication1\obj\Release\WindowsApplication1.pdb
